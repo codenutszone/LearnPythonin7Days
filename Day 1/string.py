@@ -6,5 +6,5 @@ Created on Wed Feb 13 07:19:24 2019
 """
 
 str="sohan is my name,done local changes;other person"
-print(str+"try this one")
+print(str)
 print("why now")
