@@ -5,5 +5,6 @@ Created on Wed Feb 13 07:19:24 2019
 @author: sohan
 """
 
-str="sohan is my name,done local changes"
+str="sohan is my name,done local changes;other person"
 print(str)
+
