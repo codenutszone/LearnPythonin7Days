@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 10 20:29:15 2019
-@author: sohan Girhe
-"""
-
 ###################################################################
 # Note : python compiler checks indentation first then syntax and then variables
 ####################################################################
