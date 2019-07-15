@@ -3,7 +3,6 @@ import re
 
 st = "sohan\rmohan"
 print(st)
-
 st = r"sohan\rmohan"
 print(st)
 
